@@ -4,7 +4,7 @@ A simple black theme for rEFInd
 
 
 ![Screenshot 01](https://ibin.co/4F6KKliJbAew.png)
-**press F10 to take screenshot
+(press F10 to take a screenshot)
 
 
 ### Installation:
@@ -14,7 +14,7 @@ A simple black theme for rEFInd
    git clone https://github.com/TurkishCreeper/refind-theme-oled.git
    ```
 
-2. Locate refind directory under EFI partition. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
+2. Locate refind directory under the ESP. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
 
    ```
    sudo cp -r refind-theme-oled /boot/efi/EFI/refind/
