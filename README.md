@@ -1,6 +1,6 @@
 # rEFInd theme oled
 
-A simple back theme for rEFInd
+A simple black theme for rEFInd
 
 
 ![Screenshot 01](https://ibin.co/4F6KKliJbAew.png)
