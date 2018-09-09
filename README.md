@@ -30,7 +30,7 @@ A simple back theme for rEFInd
    sudoedit /boot/efi/EFI/refind/refind.conf
    ```
 
-**More information**
+**More information:**
 This theme's icons are based on refind-theme-regular
 
 [rEFInd](http://www.rodsbooks.com/refind/) An official rEFInd website
