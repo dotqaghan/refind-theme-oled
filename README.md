@@ -1,4 +1,4 @@
-# rEFInd theme oled
+# rEFInd OLED theme
 
 A simple black theme for rEFInd
 
