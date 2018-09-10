@@ -9,12 +9,12 @@ A simple black theme for rEFInd
 
 ### Installation:
 
-1. Clone git repository to your $HOME directory.
+1. Clone the git repository
    ```
    git clone https://github.com/TurkishCreeper/refind-theme-oled.git
    ```
 
-2. Locate refind directory under the ESP. For most Linux based system is commonly `/boot/efi/EFI/refind/`. Copy theme directory to it.
+2. Locate refind directory under the ESP. This is usually `/boot/efi/EFI/refind/`. Copy theme directory to it.
 
    ```
    sudo cp -r refind-theme-oled /boot/efi/EFI/refind/
@@ -33,4 +33,4 @@ A simple black theme for rEFInd
 **More information:**
 This theme's icons are based on refind-theme-regular
 
-[rEFInd](http://www.rodsbooks.com/refind/) An official rEFInd website
+[rEFInd](http://www.rodsbooks.com/refind/) The official rEFInd website
